@@ -74,7 +74,8 @@
             "repository": {
               "owner": "AnimeOnsen",
               "name": "app"
-            }
+            },
+            "draft": true
           }
         }
       ]
